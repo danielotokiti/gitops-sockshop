@@ -2,9 +2,9 @@
 
 ## Tasks Completed:
 - Edited front-end manifest file. Switched the image from an old version(0.3.12) to a new one(latest).
-- Committed as "Add front-end v2 for canary rollout".
+- Committed as "Add front-end v2 for rollout".
 - Auto Synced the new image through the Argo CD UI.
-- Observed version changes in action through Argo Rollouts’ dashboard, tracking live updates and replica transitions.
+- Observed version changes in action through Argo Rollouts dashboard, tracking live updates and replica transitions.
 - Verified all Pods and Services are working successfully:
   
 
